@@ -15,8 +15,8 @@ export const ContactInfos: IContactInfo[] = [
     {
         logoPath: "assets\\contactIcons\\contactGithub.svg",
         contactTitle: "GitHub",
-        linkTitle: "CyberExplosion",
-        link: "https://github.com/CyberExplosion"
+        linkTitle: "ChipsAKoi",
+        link: "https://github.com/ChipsAKoi"
     },
     {
         logoPath: "assets\\contactIcons\\contactLinkedin.svg",

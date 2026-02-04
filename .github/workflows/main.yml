@@ -5,7 +5,7 @@ on: [push]
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
-    
+
     steps:
     - name: Checkout
       uses: actions/checkout@v3
@@ -15,10 +15,10 @@ jobs:
       with:
         node-version: 18.x
         cache: 'npm'
-    
+
     - name: Install dependency and start angular-cli-ghpages's Deploy action
       env:
         GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
       run: |
         npm install
-        npm run ng -- deploy --base-href=/${{github.event.repository.name}}/ --name="Github Action @CyberExplosion" --email="magnumoptics@gmail.com"
+        npm run ng -- deploy --base-href=/${{github.event.repository.name}}/ --name="Github Action @ChipsAKoi" --email="magnumoptics@gmail.com"

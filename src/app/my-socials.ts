@@ -13,7 +13,7 @@ export const SocialInfos: ISocial[] = [
     {
         logoPath: "assets\\socialIcons\\github.svg",
         contactTitle: "GitHub",
-        link: "https://github.com/CyberExplosion"
+        link: "https://github.com/ChipsAKoi"
     },
     {
         logoPath: "assets\\socialIcons\\mail.svg",

@@ -28,12 +28,12 @@ export const ProjectInfos = [
         mainButton: {
             logo: "link",
             text: "Live",
-            link: "https://cyberexplosion.itch.io/fall-king"
+            link: "https://ChipsAKoi.itch.io/fall-king"
         },
         sideButton: {
             logo: "github",
             text: "Code",
-            link: "https://github.com/CyberExplosion/Fall-King"
+            link: "https://github.com/ChipsAKoi/Fall-King"
         }
     },
     {
@@ -60,12 +60,12 @@ export const ProjectInfos = [
         mainButton: {
             logo: "link",
             text: "Live",
-            link: "https://cyberexplosion.github.io/deep-learning-doc/"
+            link: "https://ChipsAKoi.github.io/deep-learning-doc/"
         },
         sideButton: {
             logo: "github",
             text: "Code",
-            link: "https://github.com/CyberExplosion/Deep-Learning-Projects"
+            link: "https://github.com/ChipsAKoi/Deep-Learning-Projects"
         }
     },
     {
@@ -81,7 +81,7 @@ export const ProjectInfos = [
         sideButton: {
             logo: "github",
             text: "Code",
-            link: "https://github.com/CyberExplosion/NewsFeed-ECS198F"
+            link: "https://github.com/ChipsAKoi/NewsFeed-ECS198F"
         }
     },
     {
@@ -97,7 +97,7 @@ export const ProjectInfos = [
         sideButton: {
             logo: "github",
             text: "Code",
-            link: "https://github.com/CyberExplosion/Nut_App"
+            link: "https://github.com/ChipsAKoi/Nut_App"
         }
     },
     {
