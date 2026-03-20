@@ -28,7 +28,7 @@ export const ProjectInfos = [
         mainButton: {
             logo: "link",
             text: "Live",
-            link: "https://ChipsAKoi.itch.io/fall-king"
+            link: "https://cyberexplosion.itch.io/fall-king"
         },
         sideButton: {
             logo: "github",
@@ -82,22 +82,6 @@ export const ProjectInfos = [
             logo: "github",
             text: "Code",
             link: "https://github.com/ChipsAKoi/NewsFeed-ECS198F"
-        }
-    },
-    {
-        imgPath: 'assets\\projects\\nutapp.png',
-        title: 'Nutrition Android App',
-        techList: ['Flutter', 'Firebase', 'Figma'],
-        description: "Android Nutrition App that helps the user keeps track of their nutrition intake every day and builds a personal diet. Designed and prototyped on Figma, the application uses Firebase Authentication to handle user credentials. Developed on Flutter to support devices on multiple platforms. Supported social authentication through Google Sign-In and Facebook Sign-In to improve customer experience.",
-        mainButton: {
-            logo: "play",
-            text: "Demo",
-            link: "https://youtu.be/kFJVLyA1P3Q"
-        },
-        sideButton: {
-            logo: "github",
-            text: "Code",
-            link: "https://github.com/ChipsAKoi/Nut_App"
         }
     },
     {
